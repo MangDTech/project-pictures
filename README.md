@@ -1,6 +1,7 @@
 # project resources
 Random
 
-Fitur 
-Random anime\n
-Asupan loli
+# Fitur 
+\\Random anime//
+-_-_-_-_-_-_-_-_-_-
+\\Asupan loli//
