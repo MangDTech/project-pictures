@@ -2,5 +2,5 @@
 Random
 
 Fitur 
-Random anime \n
+Random anime\n
 Asupan loli
