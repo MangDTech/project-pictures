@@ -9,3 +9,5 @@ Random
 [patrick]>
 [gura]>
 [milf]>
+[cosplay]>
+[animestick]
