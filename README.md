@@ -3,4 +3,9 @@ Random
 
 # Fitur 
 [randomanime]>
-[asupanloli]
+[asupanloli]>
+[quotes]>
+[quotesnime]>
+[patrick]>
+[gura]>
+[milf]>
