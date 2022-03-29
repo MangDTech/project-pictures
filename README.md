@@ -15,4 +15,6 @@ Random
 [tebaklogo]>
 [wp-programming]>
 [wp-technology]>
-[wp-mountain]
+[wp-mountain]>
+[wp-games]>
+[wp-cyberspace]
