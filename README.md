@@ -3,6 +3,7 @@ Random
 
 # Fitur 
 [randomanime]>
+[asupan]>
 [asupanloli]>
 [quotes]>
 [quotesnime]>
@@ -10,4 +11,5 @@ Random
 [gura]>
 [milf]>
 [cosplay]>
-[animestick]
+[animestick]>
+[tebaklogo]
