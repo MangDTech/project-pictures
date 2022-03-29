@@ -12,4 +12,6 @@ Random
 [milf]>
 [cosplay]>
 [animestick]>
-[tebaklogo]
+[tebaklogo]>
+[wp-programming]>
+[wp-technology]
