@@ -1,2 +1,2 @@
 # project resources
-Random
+Silahkan Dipakai
